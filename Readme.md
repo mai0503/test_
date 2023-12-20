@@ -1,7 +1,6 @@
 hi
 
+new branch
 
-hi
-
-
+now i made some changes in the new branch named "new"
 
